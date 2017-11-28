@@ -149,7 +149,7 @@ public class MainFrm extends JFrame {
 	}
 	
 	/**
-	 * 获取要检测的设备
+	 * 获取要检测的设备GIT测试提交
 	 */
 	public TPConfig queryConfig() throws Exception{
 		System.out.println("获取要检测的设备*******");
